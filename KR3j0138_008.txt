@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 敬齊古今黈
-#+DATE: 2019-03-29 21:36:27.536435
+#+DATE: 2019-03-29 21:36:27.611802
 #+PROPERTY: ID KR3j0138
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR3j0138_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -330,7 +330,7 @@
 漠然不甚經意若坡所論眞所謂寓物而不留物者也¶
 然烏臺詩話所載款狀與晉卿往還者多以書畫為累¶
 是豈眞能忘情者哉世所傳洪覺範燈蛾詞云也知愛¶
-處實難𢬵覺範特指蟲蟻言耳人之逐欲而喪軀者抑¶
+處實難拚覺範特指蟲蟻言耳人之逐欲而喪軀者抑¶
 有甚於此此深可以為士君子之戒也¶
 ¶
 <pb:KR3j0138_WYG_008-17b>¶
